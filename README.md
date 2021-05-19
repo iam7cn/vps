@@ -4,7 +4,7 @@ CentOS7+ / Debian9+ / Ubuntu16.04+ 脚本集合
 
 目录
 
-[VPS测试脚本](https://github.com/iam7cn/vps# VPS综合性能测试脚本)
+[VPS测试脚本](https://github.com/iam7cn/vps#VPS综合性能测试脚本)
 
 # VPS综合性能测试脚本
 
